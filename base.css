@@ -17,5 +17,16 @@ body {
     padding: 0;
     height: 100%;
     width: 50px;
-    background-color: #41676e;
+    background-color: #ff7373;
+}
+.content {
+    margin-left: 200px;
+}
+.content-design {
+    background-color: aqua;
+}
+ul.main-social-links {
+    list-style-type: none;
+    padding: 20px;
+    border-radius: 5px;
 }
