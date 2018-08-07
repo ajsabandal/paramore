@@ -20,14 +20,14 @@ body {
     padding: 0;
     height: 100%;
     width: 50px;
-    background-color: blue;
+    background-color: #dcedc1;
 }
 .content {
     margin: 0;
     padding: 0;
 }
 .content-design {
-    background-color: red;
+    background-color: #fffeb3;
     min-height: 100vh;
 }
 .column {
@@ -40,4 +40,9 @@ ul.main-social-links {
     list-style-type: none;
     padding: 20px;
     border-radius: 5px;
+}
+.image-holder img {   
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
