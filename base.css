@@ -46,3 +46,18 @@ ul.main-social-links {
     margin: 0;
     padding: 0;
 }
+ul.main-menu {
+    list-style-type: none;
+    padding: 20px;
+    border-radius: 5px;
+}
+ul.main-menu li a {
+    padding: 10px;
+    text-align: center;
+    color:  #a2c0b7;
+    display: flex; 
+    font-size: 25px;
+}
+ul.main-menu li a:hover {
+    color:	#83d0c9;
+}
