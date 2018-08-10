@@ -82,7 +82,8 @@ ul.main-menu li a:hover {
 
 .grid {
     display: grid;
-    border: 2px blue solid;
-    height: 500px;
-    width: 500px;
+    border: 2px #41676e solid;
+    height: 300px;
+    width: 300px;
+    margin: 50px 200px;
 }
