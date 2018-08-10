@@ -79,3 +79,10 @@ ul.main-menu li a:hover {
     margin: 10px 150px;
     padding: 0;
 }
+
+.grid {
+    display: grid;
+    border: 2px blue solid;
+    height: 500px;
+    width: 500px;
+}
