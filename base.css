@@ -57,8 +57,13 @@ ul.main-social-links {
 ul.main-menu {
     list-style-type: none;
     padding: 20px;
-    margin-left: 5%;
+    margin: 0 auto;
+    display: flex;
 }
+
+/* ul.main-menu li {
+    display: inherit;
+} */
 
 ul.main-menu li a {
     padding: 10px;
